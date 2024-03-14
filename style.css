@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 960px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.div_1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 75%;
+    width: 20%;
+    background: rgb(90, 171, 223);
+    background: linear-gradient(90deg, rgba(90, 171, 223, 1) 41%, rgba(152, 48, 221, 1) 80%);
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.div_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85%;
+    width: 20%;
+    background: rgb(246,85,161);
+    background: linear-gradient(90deg, rgba(246,85,161,1) 28%, rgba(232,203,56,1) 73%);
+    border-radius: 20px;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+
+.div_3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 75%;
+    width: 20%;
+   background: rgb(56,139,232);
+background: linear-gradient(90deg, rgba(56,139,232,1) 35%, rgba(85,246,98,1) 80%);
+    border-radius: 20px;
+    margin-top: 3%;
+    margin-left: 1%;
+
+}
+
+.fa-telegram {
+    font-size: 100px;
+    /* margin-top: 10%; */
+    /* background: rgb(214, 228, 236);
+    background: linear-gradient(90deg, rgb(174, 212, 236) 41%, rgba(152, 48, 221, 1) 80%); */
+}
+.fa-plane{
+    font-size: 100px;
+}
+
+
+.fa-rocket {
+    /* display: flex;
+    justify-content: center;
+    margin-top: 15%; */
+    font-size: 100px;
+}
+
+.div-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-6 {
+    display: inline-block;
+}
+
+.h-7 {
+    display: inline-block;
+}
+
+.h-8 {
+    display: inline-block;
+}
+
+.h-9 {
+    display: inline-block;
+}
+
+.btn-primary {
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+}
